@@ -1,0 +1,5 @@
+div{
+	color: blue;
+	/*transform: rotate(10deg);*/
+	background-image: url('../image/top.png');
+}
